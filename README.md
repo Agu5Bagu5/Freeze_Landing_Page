@@ -1,4 +1,4 @@
-Freeze – Ice Cream & Beverage Landing Page
+# Freeze – Ice Cream & Beverage Landing Page
 
 A responsive single-page website built with pure HTML, CSS, and JavaScript (no frameworks or libraries) to practice front-end fundamentals. The project simulates a fictional ice cream/beverage shop with sections for a hero landing page, menu showcase, location map, and sponsors.
 
